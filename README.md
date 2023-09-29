@@ -1,3 +1,12 @@
+# `Project 0's`
+- *All my project folders (yes I was a very organised lil guy) - whatever I kept from the first laptop 
+- (were mainly 3d-rendering/graphic design over coding)*
+
+1->2->3
+
+![278998555_397417055295987_7924734453892067133_n_379809264017778](https://github.com/jl33-ai/graphic-design/assets/127172022/aa016979-2a49-453d-9d98-64446349839a)
+
+
 ## Professional: Donovan Project 
 #freelance #middleschool #consulting
 
