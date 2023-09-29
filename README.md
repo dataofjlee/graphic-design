@@ -5,7 +5,8 @@
 #### The Upcycling Room: Sustainable Beeswax Wraps Packaging
 `For: local startup`
 
-![[anita-1.JPG | 250]] ![[anita-3.JPG | 250]]![[Wax Seal Stamp PSD MockUp.png|250]]![[Hanging-Wall-Sign-MockUp-3.png|250]]!![[Capture.PNG|250]]![[render-3.png|250]]
+<img src="freelance/anita/anita-1.JPG" alt="drawing" height="180"/> <img src="freelance/anita/anita-3.JPG" alt="drawing" height="180"/> <img src="freelance/anita/Wax Seal Stamp PSD MockUp.png" alt="drawing" height="180"/> <img src="freelance/anita/Label Inspiration/Capture.PNG" alt="drawing" height="180"/> <img src="freelance/anita/render-3.png" alt="drawing" height="180"/> <img src="freelance/anita/Hanging-Wall-Sign-MockUp-3.png" alt="drawing" height="180"/> 
+
 `+ also designed a sales website TheUpcyclingRoom.com`
 
 ---
