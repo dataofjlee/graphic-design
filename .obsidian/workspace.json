@@ -31,22 +31,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "7c77dc190c453b70",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2e20ac0647ca7a40",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "dream-bedroom-build/1st draft0003.png"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -175,27 +159,27 @@
   },
   "active": "8afbd3d7888a254d",
   "lastOpenFiles": [
-    "jl33-ai/m2.png",
-    "jl33-ai/m1.png",
-    "jl33-ai/Screenshot 2023-09-29 at 1.14.12 pm.png",
-    "jl33-ai/Screenshot 2023-09-29 at 1.13.51 pm.png",
+    "prosthetic-hand/view-1.png",
+    "README.md",
+    "mountain-scene/render.png",
+    "mj-scans/image-3.png",
+    "mj-scans/image-2.png",
+    "minecraft-gallery/2020-03-29_15.35.30.png",
+    "minecraft-gallery/2020-03-28_20.03.18.png",
+    "minecraft-gallery/2020-03-28_11.51.39.png",
+    "minecraft-gallery/2020-03-27_07.44.45.png",
+    "minecraft-gallery/2019-11-03_21.11.12.png",
+    "minecraft-gallery/2019-11-22_15.29.31 - Copy.png",
+    "minecraft-gallery/2020-03-19_19.59.47.png",
+    "hampton/assets/hdrs/gravel_road_174a14e7-d812-4114-b02f-b37654a17015/gravel_road_2K_8ee35dbe-e341-42f4-a9d9-36044fa7dd6b.exr",
+    "hampton/assets/hdrs/gravel_road_174a14e7-d812-4114-b02f-b37654a17015",
+    "hampton/assets/hdrs",
+    "hampton/assets",
     "drop-shipping/balldrop.avi",
     "drop-shipping/balld rop.avi",
-    "dream-bedroom-build/1146060.svg",
-    "dream-bedroom-build/39608.jpg",
-    "dream-bedroom-build/51ZmqRRPnGL._SX258_BO1,204,203,200_.jpg",
-    "dream-bedroom-build/559d822e013c3da00b06c4764fc41913.jpg",
-    "dream-bedroom-build/71AJLmFQp+L._SL1425_ (1).jpg",
-    "dream-bedroom-build/89030K-2_400x400.jpg",
     "dream-bedroom-build/a130.blend1",
-    "dream-bedroom-build/albums.png",
     "dream-bedroom-build/balloon guy.blend1",
     "dream-bedroom-build/dice.blend1",
-    "dream-bedroom-build/dream room.blend",
-    "dream-bedroom-build/dream room.blend1",
-    "dream-bedroom-build/gold 3 rank.blend1",
-    "dream-bedroom-build/hampton.blend1",
-    "dream-bedroom-build/kg thingo.blend",
-    "README.md"
+    "dream-bedroom-build/dream room.blend"
   ]
 }
