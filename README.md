@@ -4,8 +4,7 @@
 
 1->2->3
 
-![278998555_397417055295987_7924734453892067133_n_379809264017778](https://github.com/jl33-ai/graphic-design/assets/127172022/aa016979-2a49-453d-9d98-64446349839a)
-
+<img src="random-renders/1.jpg" height="150"/> <img src="random-renders/2.jpg" height="150"/> <img src="random-renders/3.jpg" height="150"/>
 
 ## Professional: Donovan Project 
 #freelance #middleschool #consulting
@@ -83,7 +82,12 @@ An intense summer fling with graphic design.
 ![[view-1.png | 150]]![[view-2.png | 150]]![[view-3.png | 150]]
 
 
-
+# `Youtube Hub`
+- J0Z
+- 🥁 [PAULTYLEE](https://youtu.be/1xuwcOctD5Q?si=KmvtCAXenSjIR6wj)
+- JUZZ
+- HYPIXEL
+- MEMES
 
 
 
