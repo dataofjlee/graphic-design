@@ -2,6 +2,8 @@
 - *All my project folders (yes I was a very organised lil guy) - whatever I kept from the first laptop 
 - (were mainly 3d-rendering/graphic design over coding)*
 
+First ever programming & digital nerd projects (personal)
+
 1->2->3
 
 <img src="random-renders/1.jpg" height="150"/> <img src="random-renders/2.jpg" height="150"/> <img src="random-renders/3.jpg" height="150"/>
