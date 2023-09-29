@@ -80,3 +80,26 @@ An intense summer fling with graphic design.
 
 `Schema: neatly into folders & all centralised in README.md`
 `Videos`
+
+to add:
+
+- umcpc 
+- the among us thing (must be somewhere) ... maybe
+- mega desk
+- m green
+Fortnite vid, all vids
+Meme vids
+Ml / mmi 
+Kyla math
+Mr green
+Plant vault
+jl33.ai
+The among us thing
+Upcycling website
+Lanterns 
+Aquaponics
+jl33.ai
+Moz Poem
+Literature exam report
+Pegging - many life stories. 
+Desk... 
