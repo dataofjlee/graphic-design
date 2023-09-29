@@ -1,18 +1,18 @@
-# `Project 0's`
+# `Graphic Design Projects`
+(+ Extras)
+
+- First ever digital nerd projects (personal)
 - *All my project folders (yes I was a very organised lil guy) - whatever I kept from the first laptop 
-- (were mainly 3d-rendering/graphic design over coding)*
-
-First ever programming & digital nerd projects (personal)
-
-1->2->3
+- (were mainly vector/3d graphics centric, as I hadn't discovered programming yet.*
 
 <img src="random-renders/1.jpg" height="150"/> <img src="random-renders/2.jpg" height="150"/> <img src="random-renders/3.jpg" height="150"/>
+`1->2->3`
 
 ## Professional: Donovan Project 
 #freelance #middleschool #consulting
 
 ---
-#### The Upcycling Room: Sustainable Beeswax Wraps Packaging
+##### The Upcycling Room: Sustainable Beeswax Wraps Packaging
 `For: local startup`
 
 <img src="freelance/anita/anita-1.JPG" alt="drawing" height="180"/> <img src="freelance/anita/anita-3.JPG" alt="drawing" height="180"/> <img src="freelance/anita/Wax Seal Stamp PSD MockUp.png" alt="drawing" height="180"/> <img src="freelance/anita/Label Inspiration/Capture.PNG" alt="drawing" height="180"/> <img src="freelance/anita/render-3.png" alt="drawing" height="180"/> <img src="freelance/anita/Hanging-Wall-Sign-MockUp-3.png" alt="drawing" height="180"/> 
@@ -20,28 +20,28 @@ First ever programming & digital nerd projects (personal)
 `+ also designed a sales website TheUpcyclingRoom.com`
 
 ---
-#### Hawaii Tour Business Card
+##### Hawaii Tour Business Card
 
 ![[back.png | 250]]![[KEn 1.png|250]]
 ![[image5763.png | 250]]
 
 ---
 
-#### Textbooks
+##### Textbooks
 
 ![[Yr6Sci.png | 100]]![[Yr8Cells.png| 100]]![[Yr8Chem.png|100]]![[Yr8CompAnat.png|100]]![[Yr9Sci.png |100]]![[Yr9SciGam.png|100]]
 - Not the best
 
 ---
 
-#### Invisible Cities
+##### Invisible Cities
 `Printed and distributed`
 
 ![[v5 render.png|250]]
 
 ---
 
-#### Dream Bedroom (3D Graphics)
+##### Dream Bedroom (3D Graphics)
 `Blender | COVID-19 Lockdown Inspired`
 
 ![[dream-bedroom-build/render.png | 500]]
@@ -49,7 +49,7 @@ First ever programming & digital nerd projects (personal)
 - (I was really into the show Agents of Shield at the time)
 
 ---
-#### Fever Dreams 
+##### Fever Dreams 
 `I used to journal all of my dreams. Sometimes, I'd be able to act fast enough to mock up a recreation in Blender...`
 
 ![[fever-dreams/render.png | 500]]![[render-pool.png| 500]]
@@ -58,13 +58,13 @@ First ever programming & digital nerd projects (personal)
 
 ---
 
-#### Desk PC
+##### Desk PC
 
 ![[render-full.png | 200]]![[desk-pc-build/render.png | 200]]
 
 ---
 
-#### Hampton
+##### Hampton
 
 ![[hampton/render.png | 200]]![[hampton draft 2.png | 200]]
 
@@ -72,16 +72,25 @@ An intense summer fling with graphic design.
 
 ---
 
-#### Minecraft Screenshots
+##### Minecraft Screenshots
 `Not really graphic design per-se, but deserves a place in the gallery (for myself)`
 ![[2020-03-28_15.36.02.png | 100]]![[2020-03-31_12.01.33.png| 100]]![[2020-03-28_20.03.18.png| 100]]![[2020-03-29_15.35.30.png| 100]]
 
 ---
 
-#### Prosthetic Hand
+##### Prosthetic Hand
 `For STEM Project, 3D printing | My assessor accused me of cheating, I fought back, prompty reclaimed my A+`
 
 ![[view-1.png | 150]]![[view-2.png | 150]]![[view-3.png | 150]]
+
+
+---
+
+##### Procedural
+
+---
+
+##### One Punch Man to: 
 
 
 # `Youtube Hub`
